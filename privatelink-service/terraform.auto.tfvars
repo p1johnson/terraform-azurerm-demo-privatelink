@@ -6,6 +6,9 @@ virtual_network_address = "10.0.0.0/16"
 server_subnet_name      = "snet-server"
 server_subnet_address   = "10.0.1.0/24"
 
+nat_gateway_name    = "ng-demo-privatelink-service"
+nat_gateway_ip_name = "pip-ng-demo-privatelink-service"
+
 webserver_name      = "vmwebserver"
 webserver_disk_name = "mdk-webserver-os"
 webserver_nic_name  = "nic-webserver-eth0"
