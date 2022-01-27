@@ -67,3 +67,11 @@ variable "private_link_visibility_subscription_ids" {
   type    = list(string)
   default = []
 }
+
+variable "nat_gateway_name" {
+  type = string
+}
+
+variable "nat_gateway_ip_name" {
+  type = string
+}
