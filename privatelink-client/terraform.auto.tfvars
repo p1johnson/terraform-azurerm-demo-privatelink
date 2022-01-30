@@ -16,4 +16,4 @@ bastion_name    = "bas-demo-privatelink-client"
 bastion_ip_name = "pip-bas-demo-privatelink-client"
 
 private_endpoint_name             = "pl-demo-privatelink-service"
-private_connection_resource_alias = "pl-demo-privatelink-service.1ebd2156-7e17-41b3-8cb9-5980482f645e.uksouth.azure.privatelinkservice"
+#private_connection_resource_alias = "pl-demo-privatelink-service.1ebd2156-7e17-41b3-8cb9-5980482f645e.uksouth.azure.privatelinkservice"
