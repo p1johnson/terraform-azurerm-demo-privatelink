@@ -70,10 +70,6 @@ variable "private_endpoint_name" {
   type = string
 }
 
-variable "private_connection_resource_alias" {
-  type = string
-}
-
 variable "private_service_is_manual_connection" {
   type    = bool
   default = true
